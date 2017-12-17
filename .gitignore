@@ -1,8 +1,7 @@
 .DS_Store
-library
 node_modules
-thrift
-gambarunyu/
-src/renew.js
-list.txt
 line.thrift
+src/bot.js
+src/tmp
+test.js
+download/
